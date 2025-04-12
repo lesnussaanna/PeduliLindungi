@@ -1,0 +1,37 @@
+.alert-biru {
+  color: #064C6F;
+  background-color: #064C6F;
+  border-color: #b6d4fe;
+}
+.fixed-alert {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.fixed-afteralert {
+  position: fixed;
+  top: 3.5rem;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.batas-atas{
+	margin-top: 7.5rem;
+}
+.batas-atas1{
+  margin-top: 6rem;
+}
+.blue-main{
+	color: #229BD8 !important;
+}
+.blue-dark{
+	color: #064C6F !important;
+}
+.bg-blue-soft{
+	background-color: #EAF5FA !important;
+}
+.bg-abu{
+  background-color: #EEEEEE !important;
+}
