@@ -1,5 +1,5 @@
 # PeduliLindungi
-Tugas Sistem Basis Data tahun 2021 untuk membangun database dengan menggunakan referensi website Peduli Lindungi pada tahun 20
+Tugas Sistem Basis Data tahun 2021 untuk membangun database dengan menggunakan referensi website Peduli Lindungi
 ## CSS menggunakan Boostrap
 ## Website mengikuti desain dan cara penggunaan sesuai dengan Website PeduliLindungi !!
 ## Merupakan Tugas dari Pembelajaran saat Perkuliahan !!
